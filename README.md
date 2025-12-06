@@ -16,3 +16,4 @@ pip install streamlit transformers torch underthesea sentencepiece pandas
 Bước 4: Chạy ứng dụng Streamlit, nhập trong Terminal
 streamlit run app.py
 (Nhập email nếu có yêu cầu)
+Truy cập tại địa chỉ: http://localhost:8501
